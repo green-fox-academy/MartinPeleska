@@ -1,1 +1,3 @@
 # MartinPeleska
+Sechurae Zapper
+Javatar
