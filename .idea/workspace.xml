@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="337272cc-b05d-4e83-8cb1-f9972391a4a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/foundation/week2/Bmi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/week2/Booleans.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/week2/CodingHours.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/week2/DefineBasicInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/week2/FavoriteNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/week2/Floats.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/week2/HelloMe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/week2/HelloOthers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/week2/HumptyDumpty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/week2/Integers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/week2/IntroduceYourself.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/week2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/week2/NumberOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/week2/PrintValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/week2/Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/week2/Swap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/week2/TwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/week2/Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/week2/Variables2.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pcqp6zZTY2JncZ45b521jFBcMz" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="MartinPeleska" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="337272cc-b05d-4e83-8cb1-f9972391a4a0" name="Default Changelist" comment="" />
+      <created>1615492910894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615492910894</updated>
+      <workItem from="1615492913570" duration="1116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
