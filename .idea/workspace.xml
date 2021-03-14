@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="337272cc-b05d-4e83-8cb1-f9972391a4a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/foundation/week2/Bmi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foundation/week2/Booleans.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foundation/week2/CodingHours.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foundation/week2/DefineBasicInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foundation/week2/FavoriteNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foundation/week2/Floats.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foundation/week2/HelloMe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foundation/week2/HelloOthers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foundation/week2/HumptyDumpty.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foundation/week2/Integers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foundation/week2/IntroduceYourself.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foundation/week2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foundation/week2/NumberOperations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foundation/week2/PrintValues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foundation/week2/Strings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foundation/week2/Swap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foundation/week2/TwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foundation/week2/Variables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foundation/week2/Variables2.class" beforeDir="false" />
-    </list>
+    <list default="true" id="337272cc-b05d-4e83-8cb1-f9972391a4a0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,6 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615492910894</updated>
       <workItem from="1615492913570" duration="1116000" />
+      <workItem from="1615724233921" duration="28000" />
     </task>
     <servers />
   </component>
