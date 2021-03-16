@@ -21,7 +21,7 @@
         Amanda
         William
         Remove all elements
-        
+
  */
 
 public class ListIntroduction1
