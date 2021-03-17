@@ -10,6 +10,7 @@ public class SwapElements {
             orders[0] = x;
 
             System.out.println(orders[0]);
+            System.out.println(orders[1]);
             System.out.println(orders[2]);
 
         }

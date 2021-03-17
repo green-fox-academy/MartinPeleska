@@ -5,7 +5,7 @@
 public class DoubleItems {
     public static void main(String[] args) {
         int[] numberlist = {3, 4, 5, 6, 7};
-        for (int number : numberlist) {
+        for (int number : numberlist) {                               // ??? Co dela tato radka ???
 
             System.out.println(number * 2);
 

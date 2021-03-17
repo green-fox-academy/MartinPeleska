@@ -6,7 +6,7 @@
 //
 // - Print the result of `appendA(typo)`
 
-
+/*
 public class AppendAFunction {
 
     public static void main (String[] args){
@@ -16,3 +16,5 @@ public class AppendAFunction {
         }
     }
 }
+
+ */
