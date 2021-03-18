@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/foundation/week4/Data Structures/Data Structures.iml" filepath="$PROJECT_DIR$/foundation/week4/Data Structures/Data Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundation/week4/Drawing/Drawing.iml" filepath="$PROJECT_DIR$/foundation/week4/Drawing/Drawing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MartinPeleska.iml" filepath="$PROJECT_DIR$/.idea/MartinPeleska.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundation/week2/week2.iml" filepath="$PROJECT_DIR$/foundation/week2/week2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundation/week3/week3.iml" filepath="$PROJECT_DIR$/foundation/week3/week3.iml" />
+    </modules>
+  </component>
+</project>
