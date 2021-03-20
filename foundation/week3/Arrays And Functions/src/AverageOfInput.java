@@ -31,7 +31,7 @@ public class AverageOfInput {
 //        int d = scanner1.nextInt();
 //        int e = scanner1.nextInt();
 
-        System.out.println(a + b);
+
 
 
 //        System.out.println(a, b, c, d, e);
