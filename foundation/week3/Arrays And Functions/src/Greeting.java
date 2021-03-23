@@ -8,13 +8,11 @@
 
 public class Greeting {
     public static void main(String[] args){
-        String x=""; String al="Green Fox";
+        String al="Green Fox", a = "Hello";
 
-
-        System.out.println (greet(x)+"dear "+al);
+        System.out.println (greet(a)+" Dear "+al);
     }
         public static String greet(String a)  {
-        a= "Hello ";
         return a;
 
     }
