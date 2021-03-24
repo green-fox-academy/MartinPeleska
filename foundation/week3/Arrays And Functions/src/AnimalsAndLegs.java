@@ -16,7 +16,7 @@ public class AnimalsAndLegs {
         System.out.println("Enter number of pigs: ");
         int numberOfPigs = scanner2.nextInt();
 
-        int numberOfAllLegs = (numberOfChickens + numberOfPigs) * 4;
+        int numberOfAllLegs = (numberOfChickens *2 + numberOfPigs * 4) ;
 
         System.out.println("All the animals have : " + numberOfAllLegs + "legs.");  // Output user input
     }

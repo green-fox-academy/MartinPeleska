@@ -1,3 +1,4 @@
+
 /*We are going to play with lists. Feel free to use the built-in methods where possible.
 
         Create an empty list which will contain names (strings)
@@ -24,46 +25,35 @@
 
  */
 
-public class ListIntroduction1
-{
-    public static void main (String[] args) {
-
-    }
-}
-
-
-
-
-/*
 import java.util.ArrayList;
 
+public class ListIntroduction1 {
+    public static void main(String[] args) {
+        ArrayList<String> list = new ArrayList<>();
+        System.out.println(list.size());
+        list.add("William");
+        System.out.println("The ArrayList is empty - true/false:   " + list.isEmpty());
+        list.add("John");
+        list.add("Amanda");
+        System.out.println(list.size());
+        System.out.println(list);
 
-public class ListIntroduction1{
-    public static void main (String[] arg) {
-
-        ArrayList<String> list = new ArrayList<> ();
-        System.out.println (list.size ());
-        list.add ("William");
-        System.out.println ("Is the Array list empty?:" + list.isEmpty ());
-        list.add ("John");
-        list.add ("Amnada");
-        System.out.println (list);
-        System.out.println (list.get (2));
-        int i = 1;
-        for (String element : list){
-            System.out.println (i + ". " + element);
-
+        int i = 0;
+        for (i = 0; i < list.size(); i++) {
+            System.out.println(list.get(i));
         }
-        i = 0;
 
-        list.remove (1);
-        for (i = list.size () - 1;i >= 0;i--){
-            System.out.println (list.get (i));
+        int j = 0;
+        for (j = 0; j < list.size(); j++) {
+            System.out.println(j + 1 + ". " + list.get(j));
         }
-        list.clear ();
-        System.out.println (list);
+        list.remove(1);
+        System.out.println(list);
 
+        for (i = list.size() - 1; i >= 0; i--) {
+            System.out.println(list.get(i));
+        }
+        list.clear();
+        System.out.println(list.size());
     }
 }
-
- */
