@@ -16,7 +16,7 @@ import java.util.ArrayList;
 
 public class ListIntroductionTwo {
     public static void main (String[] args) {
-        ArrayList<String> listA = new ArrayList<String>();
+        ArrayList<String> listA = new ArrayList<String>();   // <-> ?????
         listA.add("Apple");
         listA.add("Avocado");
         listA.add("Blueberries");
