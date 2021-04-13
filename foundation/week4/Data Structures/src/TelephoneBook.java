@@ -16,11 +16,11 @@ What is John K. Miller's phone number?
 Whose phone number is 307-687-2982?
 Do we know Chris E. Myers' phone number?
 
-
+*/
 
 
 import java.util.HashMap;
-import java.util.Map;
+import java.util.Map.Entry;
 public class TelephoneBook {
     public static <telephoneBook> void main(String[] args) {
         HashMap<String, String> telephoneBook = new HashMap<>();
@@ -48,14 +48,15 @@ public class TelephoneBook {
 
 
         // value whose key is to be searched
-        Integer value = 3;
+        String value = "307-687-2982";
 
+//Do we know Chris E. Myers' phone number?
         // iterate each entry of hashmap
-        for(Entry<String, Integer> entry: numbers.entrySet()) {
+        for(Entry<String, String> entry: telephoneBook.entrySet()) {
 
             // if give value is equal to value from entry
             // print the corresponding key
-            if(entry.getValue() == value) {
+            if(entry.getValue().equals( value)) {
                 System.out.println("The key for value " + value + " is " + entry.getKey());
                 break;
             }
@@ -67,4 +68,4 @@ public class TelephoneBook {
     }
 }
 
- */
+

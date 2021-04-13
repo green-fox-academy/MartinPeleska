@@ -22,7 +22,7 @@ public class Test {
 
             // if give value is equal to value from entry
             // print the corresponding key
-            if(entry.getValue() == value) {
+            if(entry.getValue().equals( value)) {
                 System.out.println("The key for value " + value + " is " + entry.getKey());
                 break;
             }
