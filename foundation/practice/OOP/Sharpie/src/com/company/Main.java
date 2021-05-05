@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        Sharpie sharpie1 = new Sharpie("green", 5, 50);
+        Sharpie sharpie1 = new Sharpie("green", 5);
 
         sharpie1.use();
     }

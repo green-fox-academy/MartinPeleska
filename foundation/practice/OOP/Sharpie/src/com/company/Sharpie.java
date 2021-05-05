@@ -6,16 +6,16 @@ public class Sharpie {
     float width;
     float inkAmount;
 
-    public Sharpie(String color, float width, float inkAmount)
+    public Sharpie(String color, float width)
     {
         this.color = color;
         this.width = width;
-        this.inkAmount = inkAmount;
+        inkAmount = 100;
     }
     public void use()
     {
-        float useSharpie = (inkAmount -10);
-        System.out.println("color: " + color + "width: " + width + "inkAmount: " + useSharpie);
+        inkAmount -= 10;
+        System.out.println("color: " + color + "width: " + width + "inkAmount: " + inkAmount);
     }
 
 }
