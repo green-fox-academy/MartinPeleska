@@ -15,14 +15,14 @@ outside one of IBM’s New York City offices, he told me that he wasn’t really
  */
 
 
-public class BlogPost1 {
+public class BlogPost {
 
     String aAuthorName;
     String aTitle;
     String aText;
     String aPublicationDate;
 
-    public BlogPost1(){
+    public BlogPost(){
 
     }
 
